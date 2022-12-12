@@ -64,7 +64,7 @@ html {
   font-size: 1.3rem;
 }
 
-.hero .tempatwaktu {
+.hero .tempatFecha {
   padding-top: 35px;
   font-size: 1.3rem;
   
@@ -319,7 +319,7 @@ vertical-align: middle;
   font-size: 18px;
 }
 
-.waktu {
+.Fecha {
   font-size: 1.4rem;
   font-family: 'Raleway', sans-serif;
 }
